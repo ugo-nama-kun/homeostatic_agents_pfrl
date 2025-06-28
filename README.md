@@ -6,6 +6,8 @@ However, due to recent updates to the MuJoCo environment, this code is now outda
 ### Weight data
 The parameters of the trained model are available at the following link.
 
+https://osf.io/mscn8/
+
 ### Environment
 
 The following environment is required to run this experiment (execution is not recommended due to mujoco-py dependencies).
