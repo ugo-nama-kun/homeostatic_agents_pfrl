@@ -3,6 +3,8 @@
 **Author note**: This repository is
 However, due to recent updates to the MuJoCo environment, this code is now outdated and is not recommended for direct execution from the perspective of compatibility and work efficiency. We recommend using it for reference purposes, such as for parameters.
 
+`main_*.py` files are main codes for the training session.
+
 ### Weight data
 The parameters of the trained model are available at the following link.
 
